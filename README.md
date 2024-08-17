@@ -1,6 +1,6 @@
 # native-image-debug-test
 
-- For https://github.com/apache/shardingsphere-elasticjob/pull/2428 .
+- For https://github.com/apache/shardingsphere-elasticjob/pull/2428 and https://github.com/oracle/graal/issues/9514 .
 
 - Execute the following command on Ubuntu 22.04.4 with `SDKMAN!` installed.
 
